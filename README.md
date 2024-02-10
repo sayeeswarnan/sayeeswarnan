@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, React , libraries , Frameworks**
 
-- 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/sayeeswarnan/)
+- 👨‍💻 All of my projects are available at [**GitHub**](https://github.com/sayeeswarnan?tab=repositories)
   
 - 💬 Ask me about **Frontend , web designing, JavaScript**
 
